@@ -151,7 +151,7 @@ const Footer = () => {
  <p className="text-muted-foreground text-sm my-4 md:my-0">
   made by{" "}
   <a
-    href="https://google.com"
+    href="https://ssefdev.vercel.app/"
     target="_blank"
     rel="noopener noreferrer"
     className="font-semibold bg-gradient-to-r from-blue-500 to-sky-400 bg-clip-text text-transparent transition-all duration-300 hover:brightness-125 hover:underline"
